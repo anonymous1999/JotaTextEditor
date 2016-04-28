@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="table_toolname_array">
+        <item>@string/no_assign</item>              
+        <item>@string/selectAll</item>           
+        <item>@string/menu_edit_undo</item>             
+        <item>@string/copy</item>             
+        <item>@string/cut</item>             
+        <item>@string/paste</item>             
+        <item>@string/label_direct_intent</item>         
+        <item>@string/menu_file_save</item>             
+        <item>@string/enter</item>             
+        <item>@string/tab</item>            
+        <item>@string/backspace</item>             
+        <item>@string/trackball_centering</item>             
+        <item>@string/label_search</item>             
+        <item>@string/fs_title_open</item>             
+        <item>@string/menu_file_new</item>             
+        <item>@string/label_redo</item>             
+        <item>@string/trackball_contextmenu</item>             
+        <item>@string/menu_edit_jump</item>             
+        <item>@string/label_forward_del</item>             
+        <item>@string/label_cursor_left</item>             
+        <item>@string/label_cursor_right</item>             
+        <item>@string/label_cursor_up</item>             
+        <item>@string/label_cursor_down</item>             
+        <item>@string/label_page_up</item>            
+        <item>@string/label_page_down</item>            
+        <item>@string/label_home</item>             
+        <item>@string/label_end</item>             
+        <item>@string/label_top</item>             
+        <item>@string/label_bottom</item>             
+        <item>@string/menu_file_property</item>             
+        <item>@string/menu_file_history</item>             
+        <item>@string/menu_file_view</item>           
+        <item>@string/menu_share </item>             
+        <item>@string/menu_file_share </item>           
+        <item>@string/menu_insert</item>             
+        <item>@string/menu_file_quit</item>             
+        <item>@string/menu_search_byintent</item>           
+        <item>@string/label_word_wrap</item>           
+        <item>@string/show_ime </item>          
+        <item>@string/menu_font_size_up</item>           
+        <item>@string/menu_font_size_down</item>           
+        <item>@string/menu_select_line</item>            
+        <item>@string/menu_select_block</item>            
+        <item>@string/menu_parenthesis</item>          
+        <item>@string/menu_curly</item>          
+        <item>@string/menu_brackets</item>          
+        <item>@string/menu_xmlbrace</item>         
+        <item>@string/menu_ccomment</item>        
+        <item>@string/menu_doublequote</item>        
+        <item>@string/menu_singlequote</item>          
+        <item>@string/single_quote</item>
+        <item>@string/double_quote</item>
+        <item>@string/menu_select</item>             
+        <item>@string/menu_select_word</item>           
+        <item>@string/label_launch_by_sl4a</item>           
+        <item>@string/menu_menu</item>             
+        <item>@string/label_kill_line</item>            
+        <item>@string/menu_file_saveas</item>            
+    </string-array>     
+	<array name="CharcterSet">
+		<item>UTF-8</item>
+		<item>UTF-16BE</item>
+		<item>UTF-16LE</item>
+		<item>UTF-32BE</item>
+		<item>UTF-32LE</item>
+		<item>WINDOWS-1250</item>
+		<item>WINDOWS-1251</item>
+		<item>WINDOWS-1252</item>
+		<item>WINDOWS-1253</item>
+		<item>WINDOWS-1255</item>
+		<item>SHIFT_JIS</item>
+		<item>ISO-2022-JP</item>
+		<item>ISO-2022-CN</item>
+		<item>ISO-2022-KR</item>
+		<item>ISO-8859-5</item>
+		<item>ISO-8859-7</item>
+		<item>ISO-8859-8</item>
+		<item>BIG5</item>
+		<item>GB18030</item>
+		<item>EUC-JP</item>
+		<item>EUC-KR</item>
+		<item>EUC-TW</item>
+		<item>IBM855</item>
+		<item>IBM866</item>
+		<item>KOI8-R</item>
+		<item>MACCYRILLIC</item>
+		<item>HZ-GB-2312</item>
+		<item>X-ISO-10646-UCS-4-3412</item>
+		<item>X-ISO-10646-UCS-4-2143</item>
+	</array>
+
+	<array name="LineBreak">
+		<item>CR (for Macintosh)</item>
+		<item>LF (for Linux/Android)</item>
+		<item>CRLF (for Windows)</item>
+	</array>
+
+	<array name="CharcterSet_open">
+		<item>@string/label_auto_detect</item>
+		<item>UTF-8</item>
+		<item>UTF-16BE</item>
+		<item>UTF-16LE</item>
+		<item>UTF-32BE</item>
+		<item>UTF-32LE</item>
+		<item>WINDOWS-1250</item>
+		<item>WINDOWS-1251</item>
+		<item>WINDOWS-1252</item>
+		<item>WINDOWS-1253</item>
+		<item>WINDOWS-1255</item>
+		<item>SHIFT_JIS</item>
+		<item>ISO-2022-JP</item>
+		<item>ISO-2022-CN</item>
+		<item>ISO-2022-KR</item>
+		<item>ISO-8859-5</item>
+		<item>ISO-8859-7</item>
+		<item>ISO-8859-8</item>
+		<item>BIG5</item>
+		<item>GB18030</item>
+		<item>EUC-JP</item>
+		<item>EUC-KR</item>
+		<item>EUC-TW</item>
+		<item>IBM855</item>
+		<item>IBM866</item>
+		<item>KOI8-R</item>
+		<item>MACCYRILLIC</item>
+		<item>HZ-GB-2312</item>
+		<item>X-ISO-10646-UCS-4-3412</item>
+		<item>X-ISO-10646-UCS-4-2143</item>
+	</array>
+
+	<array name="CharcterSet_save">
+		<item>@string/label_keep_original</item>
+		<item>UTF-8</item>
+		<item>UTF-16BE</item>
+		<item>UTF-16LE</item>
+		<item>UTF-32BE</item>
+		<item>UTF-32LE</item>
+		<item>WINDOWS-1250</item>
+		<item>WINDOWS-1251</item>
+		<item>WINDOWS-1252</item>
+		<item>WINDOWS-1253</item>
+		<item>WINDOWS-1255</item>
+		<item>SHIFT_JIS</item>
+		<item>ISO-2022-JP</item>
+		<item>ISO-2022-CN</item>
+		<item>ISO-2022-KR</item>
+		<item>ISO-8859-5</item>
+		<item>ISO-8859-7</item>
+		<item>ISO-8859-8</item>
+		<item>BIG5</item>
+		<item>GB18030</item>
+		<item>EUC-JP</item>
+		<item>EUC-KR</item>
+		<item>EUC-TW</item>
+		<item>IBM855</item>
+		<item>IBM866</item>
+		<item>KOI8-R</item>
+		<item>MACCYRILLIC</item>
+		<item>HZ-GB-2312</item>
+		<item>X-ISO-10646-UCS-4-3412</item>
+		<item>X-ISO-10646-UCS-4-2143</item>
+	</array>
+
+	<array name="LineBreak_save">
+		<item>@string/label_keep_original</item>
+		<item>CR (for Macintosh)</item>
+		<item>LF (for Linux/Android)</item>
+		<item>CRLF (for Windows)</item>
+	</array>
+
+	<array name="CreateShortcut">
+		<item>@string/label_shortcut_view</item>
+		<item>@string/label_shortcut_jota</item>
+	</array>
+
+</resources>
+
